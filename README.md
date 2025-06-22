@@ -75,6 +75,11 @@ EchoOne is a premium product landing page and cart experience for a headphone br
 
 ## 📦 Deployment
 
+Here you can find deployed link:
+
+https://inxtinct-security-assignment.vercel.app/payment
+
+---
 
 ```bash
 npm run build
